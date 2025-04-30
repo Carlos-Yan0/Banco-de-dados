@@ -1,0 +1,1 @@
+select nome, capacidade from consultorio where capacidade > 10;
