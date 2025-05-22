@@ -1,2 +1,0 @@
-select m.nome as 'Doutor', p.nome as 'Paciente', con.nome as 'Consultorio', c.data_consulta, c.horario_consulta
-from medico as m join consulta as c on m.id = c.id_medico join paciente as p on p.id = c.id_paciente join consultorio as con on con.id = c.id_consultorio;
