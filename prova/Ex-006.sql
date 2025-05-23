@@ -1,1 +1,0 @@
-select nome, endereco, responsavel from consultorio where nome like 'consultorio São Paulo';

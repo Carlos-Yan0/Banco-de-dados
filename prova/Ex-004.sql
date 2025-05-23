@@ -1,1 +1,0 @@
- select count('total_consultas_dor_no_peito') from consulta where motivo = 'Dor no peito';

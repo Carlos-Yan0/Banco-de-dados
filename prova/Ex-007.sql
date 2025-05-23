@@ -1,1 +1,0 @@
-select nome, especialidade, data_contratacao from medico where data_contratacao < '2018-01-01';
